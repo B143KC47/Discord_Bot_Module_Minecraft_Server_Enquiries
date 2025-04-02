@@ -2,6 +2,8 @@
 
 一个用于查询Minecraft服务器状态的Discord机器人模块。
 
+中文 | [English](README.md)
+
 ![Discord Bot](https://img.shields.io/badge/Discord-机器人-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

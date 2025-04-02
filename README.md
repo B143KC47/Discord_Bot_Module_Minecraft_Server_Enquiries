@@ -2,6 +2,8 @@
 
 A Discord bot module for querying Minecraft server status and player information.
 
+[中文文档](README.CN.md) | English
+
 ![Discord Bot](https://img.shields.io/badge/Discord-Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,7 +37,7 @@ Edit `.env` file with your:
 ### Minecraft Server Setup
 Edit `server_info.json` with your server information:
 ```json
-[
+[ 
   {"ip":"play.example.com", "Name": "My Minecraft Server"},
   {"ip":"mc.example.org", "Name": "Another MC Server"}
 ]
